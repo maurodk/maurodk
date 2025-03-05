@@ -50,6 +50,14 @@ Olá! Me chamo Carlos Mauricio, tenho 20 anos e sou Técnico em Análise e Desen
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
+  <img 
+    align="left"
+    alt="Tailwind CSS"
+    title="Tailwind CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
 <img 
     align="left"
     alt="JAVASCRIPT"

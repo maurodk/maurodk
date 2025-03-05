@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=3BF700&center=true&vCenter=true&width=435&lines=T%C3%A9cnico+em+An%C3%A1lise+e+Desenvolvimento;Aprendendo+cada+vez+mais!" alt="Typing SVG"
 </p>
 
-**`Desenvolvedor de Análise e Automação`**
+**`Desenvolvedor UI/UX`**
 
 Olá! Me chamo Carlos Mauricio, tenho 20 anos e sou Técnico em Análise e Desenvolvimento de Sistemas. Concluí minha formação em 2024 e atualmente estou trabalhando o meu portifólio como desenvolvedor. Estou sempre em busca de superar a mim mesmo, explorando novas tecnologias e novas formas de solucionar problemas. Me coloco à disposição para aprender e compartilhar dos meus conhecimentos!
 

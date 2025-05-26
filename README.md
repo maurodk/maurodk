@@ -9,7 +9,7 @@
 
 **`Analista de Sistemas`**
 
-Olá! Me chamo Carlos Mauricio, tenho 20 anos e sou Técnico em Análise e Desenvolvimento de Sistemas. Concluí minha formação em 2024 e atualmente estou trabalhando o meu portifólio como desenvolvedor. Estou sempre em busca de superar a mim mesmo, explorando novas tecnologias e novas formas de solucionar problemas. Me coloco à disposição para aprender e compartilhar dos meus conhecimentos!
+Olá! Me chamo Carlos Mauricio, tenho 21 anos e sou Técnico em Análise e Desenvolvimento de Sistemas. Concluí minha formação em 2024 e atualmente estou trabalhando o meu portifólio como desenvolvedor. Estou sempre em busca de superar a mim mesmo, explorando novas tecnologias e novas formas de solucionar problemas. Me coloco à disposição para aprender e compartilhar dos meus conhecimentos!
 
    <p align="left">
       <a href="https://www.youtube.com/@hedokeys?sub_confirmation=1">

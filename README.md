@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&width=435&lines=Software+%26+Product+Engineer+" alt="Typing SVG"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&width=435&lines=Software+%26+Product+Engineer+" alt="Typing SVG"/>
 </p>
 
 **`Analista de Sistemas`**

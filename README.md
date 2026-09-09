@@ -61,31 +61,38 @@
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nestjs,nodejs,ts,svelte,py,postgres,aws,supabase,vite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,nestjs,nodejs,ts,svelte,py,postgres,aws,supabase&perline=12" />
 </p>
 
-<table>
+<br>
+
+<table align="center">
   <tr>
-    <td width="100%" valign="top">
-      <h3>Frontend</h3>
-      ReactJS, NextJS, VueJS, Svelte
+    <td align="center" width="300">
+      <strong>Frontend</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,svelte" />
     </td>
-    <td width="100%" valign="top">
-      <h3>Backend</h3>
-      NestJS, NodeJS, Python, Supabase
+    <td align="center" width="300">
+      <strong>Backend</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,supabase" />
     </td>
   </tr>
+
   <tr>
-    <td width="100%" valign="top">
-      <h3>Language & Database</h3>
-      TypeScript, PostgreSQL
+    <td align="center" width="300">
+      <strong>Language & Database</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=ts,postgres" />
     </td>
-    <td width="100%" valign="top">
-      <h3>Cloud & Infrastructure</h3>
-      AWS, Supabase
+    <td align="center" width="300">
+      <strong>Cloud & Infrastructure</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=aws,supabase" />
     </td>
   </tr>
 </table>

@@ -1,140 +1,155 @@
 <p align="center">
-  <a href="https://github.com/maurodk">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=3BF700&center=true&vCenter=true&repeat=false&width=435&lines=Mauro+D.+Kyo" alt="Typing SVG" alt="Typing SVG" /></a>
+  <img src="./assets/profile-header.svg" alt="Carlos Mauricio Header" width="100%" />
+</p>
+
+<h3 align="center">
+  Product Engineer Pleno • Fullstack Developer • Software Architect • AI-First Builder
+</h3>
+
+<p align="center">
+  Building digital products end-to-end — from idea and architecture to frontend, backend and production.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70F&center=true&width=435&lines=Software+%26+Product+Engineer+" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/omaurojr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/omauro.jr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.orbitadev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
-**`Analista de Sistemas`**
+---
 
-Olá! Me chamo Carlos Mauricio, tenho 22 anos e sou Técnico em Análise e Desenvolvimento de Sistemas. Concluí minha formação em 2024 e atualmente estou trabalhando o meu portifólio como desenvolvedor. Estou sempre em busca de superar a mim mesmo, explorando novas tecnologias e novas formas de solucionar problemas. Me coloco à disposição para aprender e compartilhar dos meus conhecimentos!
+## About Me
 
-   <p align="left">
-      <a href="https://www.youtube.com/@hedokeys?sub_confirmation=1">
-         <img alt="Inscritos" title="Inscreva-se no meu canal!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxYEV8sDsI5DdO-Eyi3yGYQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-      <a href="https://github.com/maurodk?tab=followers">
-         <img alt="Seguidores do Github" title="Me siga no Github!" src="https://custom-icon-badges.demolab.com/github/followers/maurodk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-      <a href="https://github.com/maurodk?tab=repositories&sort=stargazers">
-         <img alt="Total de Estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/maurodk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-   </p>
+> I'm **Carlos Mauricio**, a **Product Engineer Pleno** who builds digital products from concept to production.
+>
+> My work sits at the intersection of **product thinking**, **fullstack development**, **software architecture** and **AI-first execution**.
+>
+> I like designing systems that are not only functional, but also **scalable**, **maintainable** and **experience-driven**.
 
-   ---
+---
 
-   ### 🤖 Linguagens e Tecnologias
+## What I Do
 
-   
-<img 
-    align="left"
-    alt="PYTHON"
-    title="PYTHON"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Product Engineering</h3>
+      Transforming ideas into real products with technical and product vision.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Fullstack Development</h3>
+      Building modern frontends, robust backends and production-ready systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Software Architecture</h3>
+      Structuring scalable applications, integrations and maintainable codebases.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-First Building</h3>
+      Leveraging LLMs and AI workflows to accelerate delivery and improve execution.
+    </td>
+  </tr>
+</table>
 
+---
 
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+## Tech Stack
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-  <img 
-    align="left"
-    alt="Tailwind CSS"
-    title="Tailwind CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-<img 
-    align="left"
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img 
-    align="left"
-    alt="TYPESCRIPT"
-    title="TYPESCRIPT"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-<img 
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img 
-    align="left"
-    alt="Adobe Premiere"
-    title="Adobe Premiere"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
-
-<img 
-    align="left"
-    alt="Adobe Photoshop"
-    title="Adobe Photoshop"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-
-<img 
-    align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
-<img 
-    align="left"
-    alt="NODEJS"
-    title="NODEJS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas do Perfil
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=maurodk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nestjs,nodejs,ts,svelte,py,postgres,aws,supabase,vite&perline=6" />
 </p>
-          
-          
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Frontend</h3>
+      ReactJS, NextJS, VueJS, Svelte
+    </td>
+    <td width="100%" valign="top">
+      <h3>Backend</h3>
+      NestJS, NodeJS, Python, Supabase
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Language & Database</h3>
+      TypeScript, PostgreSQL
+    </td>
+    <td width="100%" valign="top">
+      <h3>Cloud & Infrastructure</h3>
+      AWS, Supabase
+    </td>
+  </tr>
+</table>
+
+---
+
+## AI Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  AI-assisted development focused on faster execution, better architecture exploration and higher delivery leverage.
+</p>
+
+---
+
+## Core Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Product_Engineering-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fullstack_Development-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Architecture-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_First_Workflows-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Realtime_Products-0B1020?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer_Experience-172554?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maurodk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=maurodk&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodk/maurodk/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omaurojr">LinkedIn</a> •
+  <a href="https://www.instagram.com/omauro.jr">Instagram</a> •
+  <a href="https://www.orbitadev.com.br">Portfolio</a>
+</p>
+
+---
+
+## Signature
+
+```txt
+Building products from idea → architecture → code → production

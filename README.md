@@ -102,12 +102,24 @@
 ## AI Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
+    alt="Claude Code"
+  />
+  <img
+    src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"
+    alt="OpenAI"
+  />
+  <img
+    src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"
+    alt="ChatGPT"
+  />
 </p>
 
 <p align="center">
-  AI-assisted development focused on faster execution, better architecture exploration and higher delivery leverage.
+  <sub>
+    AI-assisted engineering • architecture exploration • rapid prototyping • development workflows
+  </sub>
 </p>
 
 ---
@@ -128,8 +140,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maurodk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="./assets/github-stats.svg" alt="Carlos Mauricio GitHub Stats" />
+  <img height="170" src="./assets/top-langs.svg" alt="Carlos Mauricio Top Languages" />
 </p>
 
 <p align="center">

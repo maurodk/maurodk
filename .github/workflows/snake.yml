@@ -1,0 +1,37 @@
+name: Snake Evolution
+
+on:
+  # Executa todos os dias à meia-noite no horário de Brasília
+  schedule:
+    - cron: "0 3 * * *"
+
+  # Permite executar manualmente pelo GitHub
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: miccy/snake-evolution@v1.3.0
+        with:
+          github_user_name: maurodk
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/snake.svg
+          theme: cypherpunk
+
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

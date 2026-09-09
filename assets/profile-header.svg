@@ -370,13 +370,13 @@
     <text x="882" y="100" class="cardTitle">CORE STACK</text>
 
     <rect class="pill" x="882" y="116" rx="12" ry="12" width="78" height="28"/>
-    <text x="902" y="134" class="pillText">NEXTJS</text>
+    <text x="900" y="134" class="pillText">NEXTJS</text>
 
-    <rect class="pill" x="950" y="148" rx="12" ry="12" width="66" height="28"/>
-    <text x="969" y="166" class="pillText">NODE</text>
+    <rect class="pill" x="970" y="116" rx="12" ry="12" width="66" height="28"/>
+    <text x="985" y="135" class="pillText">NODE</text>
 
-    <rect class="pill" x="1026" y="148" rx="12" ry="12" width="50" height="28"/>
-    <text x="1041" y="166" class="pillText">TS</text>
+    <rect class="pill" x="1048" y="116" rx="12" ry="12" width="50" height="28"/>
+    <text x="1065" y="136" class="pillText">TS</text>
   </g>
 
   <g>

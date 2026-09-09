@@ -158,17 +158,9 @@
 
 ---
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omaurojr">LinkedIn</a> •
-  <a href="https://www.instagram.com/omauro.jr">Instagram</a> •
-  <a href="https://www.orbitadev.com.br">Portfolio</a>
-</p>
-
----
-
 ## Signature
 
 ```txt
 Building products from idea → architecture → code → production
+```
+---

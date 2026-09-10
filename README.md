@@ -137,19 +137,6 @@
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="./assets/github-stats.svg" alt="Carlos Mauricio GitHub Stats" />
-  <img height="170" src="./assets/top-langs.svg" alt="Carlos Mauricio Top Languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=maurodk&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">

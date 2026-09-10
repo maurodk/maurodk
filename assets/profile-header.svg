@@ -323,7 +323,7 @@
   <rect class="scan" x="-220" y="0" width="190" height="360"/>
 
   <!-- left content -->
-  <text x="88" y="48" class="eyebrow">OMAURODK // GITHUB PROFILE</text>
+  <text x="88" y="62" class="eyebrow">OMAURODK // GITHUB PROFILE</text>
 
   <g clip-path="url(#nameReveal)">
     <text x="88" y="112" class="nameShadow">CARLOS MAURICIO</text>
@@ -363,30 +363,4 @@
 
   <text x="88" y="304" class="status">status: building, architecting and shipping</text>
   <text x="470" y="304" class="cursor">_</text>
-
-  <!-- right info cards -->
-  <g>
-    <rect class="card" x="856" y="74" rx="18" ry="18" width="338" height="96"/>
-    <text x="882" y="100" class="cardTitle">CORE STACK</text>
-
-    <rect class="pill" x="882" y="116" rx="12" ry="12" width="78" height="28"/>
-    <text x="900" y="134" class="pillText">NEXTJS</text>
-
-    <rect class="pill" x="970" y="116" rx="12" ry="12" width="66" height="28"/>
-    <text x="985" y="135" class="pillText">NODE</text>
-
-    <rect class="pill" x="1048" y="116" rx="12" ry="12" width="50" height="28"/>
-    <text x="1065" y="136" class="pillText">TS</text>
-  </g>
-
-  <g>
-    <rect class="card" x="856" y="192" rx="18" ry="18" width="338" height="94"/>
-    <text x="882" y="218" class="cardTitle">AI TOOLING</text>
-
-    <rect class="pill" x="882" y="234" rx="12" ry="12" width="130" height="28"/>
-    <text x="901" y="252" class="pillText">CLAUDE CODE</text>
-
-    <rect class="pill" x="1022" y="234" rx="12" ry="12" width="104" height="28"/>
-    <text x="1042" y="252" class="pillText">CHATGPT</text>
-  </g>
 </svg>

@@ -18,7 +18,7 @@
     <img src="./assets/instagram-card.svg" width="31%" alt="Instagram" />
   </a>
   <a href="https://www.orbitadev.com.br" target="_blank">
-    <img src="./assets/portfolio-card.svg" width="31%" alt="Portfolio" />
+    <img src="./assets/portifolio-card.svg" width="31%" alt="Portfolio" />
   </a>
 </p>
 

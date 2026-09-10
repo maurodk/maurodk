@@ -1,0 +1,112 @@
+<svg width="360" height="104" viewBox="0 0 360 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .label {
+      fill: #8B949E;
+      font-family: "Segoe UI", Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+    }
+
+    .title {
+      fill: #F0F6FC;
+      font-family: "Segoe UI", Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+    }
+
+    .handle {
+      fill: #A371F7;
+      font-family: "Segoe UI", Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    .arrow {
+      fill: #8B949E;
+      font-family: Arial, sans-serif;
+      font-size: 17px;
+    }
+  </style>
+
+  <rect
+    x="0.5"
+    y="0.5"
+    width="359"
+    height="103"
+    rx="16"
+    fill="#0D1117"
+    stroke="#30363D"
+  />
+
+  <!-- accent -->
+  <rect
+    x="18"
+    y="25"
+    width="2"
+    height="54"
+    rx="1"
+    fill="#A371F7"
+  />
+
+  <!-- icon -->
+  <rect
+    x="34"
+    y="27"
+    width="48"
+    height="48"
+    rx="12"
+    fill="#161B22"
+    stroke="#30363D"
+  />
+
+  <circle
+    cx="58"
+    cy="51"
+    r="13"
+    stroke="#F0F6FC"
+    stroke-width="2.3"
+  />
+
+  <path
+    d="M45 51H71"
+    stroke="#F0F6FC"
+    stroke-width="2.3"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M58 38
+       C61.5 42 63 46.5 63 51
+       C63 55.5 61.5 60 58 64"
+    stroke="#F0F6FC"
+    stroke-width="2.3"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M58 38
+       C54.5 42 53 46.5 53 51
+       C53 55.5 54.5 60 58 64"
+    stroke="#F0F6FC"
+    stroke-width="2.3"
+    stroke-linecap="round"
+  />
+
+  <!-- content -->
+  <text x="102" y="37" class="label">SELECTED WORK</text>
+
+  <text x="102" y="58" class="title">PORTFOLIO</text>
+
+  <text x="102" y="77" class="handle">orbitadev.com.br</text>
+
+  <text
+    x="325"
+    y="59"
+    text-anchor="middle"
+    class="arrow"
+  >↗</text>
+
+</svg>

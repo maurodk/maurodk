@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omaurojr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/linkedin-card.svg" width="31%" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/omauro.jr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="./assets/instagram-card.svg" width="31%" alt="Instagram" />
   </a>
   <a href="https://www.orbitadev.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="./assets/portfolio-card.svg" width="31%" alt="Portfolio" />
   </a>
 </p>
 
